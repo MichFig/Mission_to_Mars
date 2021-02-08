@@ -1,2 +1,2 @@
 # Mission_to_Mars
-Web Scraping Homework - Mission to Mars
+Web Scraping Challenge - Mission to Mars
